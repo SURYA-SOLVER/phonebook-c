@@ -89,6 +89,7 @@ typedef struct {
 
 ## Author
 
+SURYA-SOLVER
 Created as a course project for C Language (First Year, First Semester)
 
 ---
