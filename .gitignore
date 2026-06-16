@@ -1,0 +1,30 @@
+# C Program Compiled Files
+*.o
+*.out
+*.exe
+
+# Binary Database File
+contacts.bin
+
+# Executable
+phonebook
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.cproject
+
+# Object Files
+*.obj
+
+# Temporary Files
+temp.bin
+*.tmp
